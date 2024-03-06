@@ -10,14 +10,15 @@ Simple console script to unlock Classes, Subclasses, Biomes, Hazard Levels, Weap
 --------------------------------------------------------
 Savefile found in: C:\Users\michael\AppData\LocalLow\Funday Games\DRG Survivor\drgs.dat
 
-Unlock all biomes and hazard levels [y/N]?y
-Unlock all classes [y/N]?
-Unlock all subclasses [y/N]?
+Unlock all biomes and hazard levels [y/N]?
+Unlock all classes [y/N]?y
+Unlock all subclasses [y/N]?y
 Unlock all weapons [y/N]?
 Unlock all weapon overclocks [y/N]?
 Unlock all artifacts [y/N]?
-Unlock all achievements [y/N]?
-Maximize all stats [y/N]?
+Maximize all stat upgrades [y/N]?y
+Complete all biome goals & milestones [y/N]?
 
 Do you want to write the new savefile [y/N]?y
+
 ```
