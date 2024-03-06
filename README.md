@@ -1,2 +1,5 @@
 # drgs-unlocker
-DRG:Suvirvor Unlocker
+DRG:Survivor Unlocker
+
+Unlock Classes, Subclasses, Biomes, Hazard Levels, Weapons, Overclocks, Achievements, Max Stats.
+

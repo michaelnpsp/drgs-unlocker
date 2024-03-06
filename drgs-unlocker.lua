@@ -1,5 +1,5 @@
 --------------------------------------------------------------------------
--- Deep Rock Galactic: Suvivor simple save editor to unlock main things
+-- Deep Rock Galactic: Survivor simple save editor to unlock things
 --------------------------------------------------------------------------
 
 local VERSION = "1.0"
