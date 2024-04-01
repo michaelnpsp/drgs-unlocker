@@ -4,7 +4,7 @@
 
 echo off
 
-SET VER=1.0
+SET VER=1.1
 SET PRO="DRG:Survivor Unlocker"
 SET COM="michaelnpsp"
 SET COP="(C) 2024 MiCHaEL"
