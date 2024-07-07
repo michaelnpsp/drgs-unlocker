@@ -1,0 +1,1484 @@
+{
+  "Version": 2,
+  "Challenges": [
+    {
+      "Guid": "cac65f8d-d306-4ae4-b534-23f355ba35b8",
+      "IsUnlocked": true,
+      "Completion": 5
+    },
+    {
+      "Guid": "98d1af04-d5b6-4c17-92d9-26246b1a2aaa",
+      "IsUnlocked": true,
+      "Completion": 5
+    },
+    {
+      "Guid": "95b79dde-85d2-4cfa-a989-e55af0fb4166",
+      "IsUnlocked": true,
+      "Completion": 5
+    },
+    {
+      "Guid": "48f929ec-2e98-482f-86f9-d9a8c277f7e4",
+      "IsUnlocked": true,
+      "Completion": 5
+    },
+    {
+      "Guid": "56958402-7ea6-4ac2-ac98-a847a8f913ab",
+      "IsUnlocked": true,
+      "Completion": 5
+    },
+    {
+      "Guid": "2b020584-9e10-497a-8702-72d44e694f98",
+      "IsUnlocked": true,
+      "Completion": 5
+    },
+    {
+      "Guid": "9abe1f77-5fc3-4c35-9548-3e47beae9e95",
+      "IsUnlocked": true,
+      "Completion": 5
+    },
+    {
+      "Guid": "bfb8de3d-753a-4099-98df-61efdb1bd7d7",
+      "IsUnlocked": true,
+      "Completion": 5
+    },
+    {
+      "Guid": "0573ea3f-57d0-4007-a4ee-062f9b692c4f",
+      "IsUnlocked": true,
+      "Completion": 5
+    },
+    {
+      "Guid": "0b27c980-aca6-40c5-9ad0-698ccb4a063f",
+      "IsUnlocked": true,
+      "Completion": 5
+    },
+    {
+      "Guid": "a537af70-6733-4f58-8821-2e3820b16181",
+      "IsUnlocked": true,
+      "Completion": 5
+    },
+    {
+      "Guid": "b75d890a-d2da-4b0f-a499-b02b432b8787",
+      "IsUnlocked": true,
+      "Completion": 5
+    },
+    {
+      "Guid": "249f83ac-87f8-4eff-979e-2db30021170d",
+      "IsUnlocked": true,
+      "Completion": 5
+    },
+    {
+      "Guid": "bfb6e2c0-a437-4dca-81c6-4a1aaad1242b",
+      "IsUnlocked": true,
+      "Completion": 5
+    },
+    {
+      "Guid": "b6796f90-10b5-423b-834f-523cf68099e0",
+      "IsUnlocked": true,
+      "Completion": 5
+    },
+    {
+      "Guid": "e20d13ec-8961-4f18-8723-782b9410bfdc",
+      "IsUnlocked": true,
+      "Completion": 5
+    },
+    {
+      "Guid": "74785b45-bea5-43fa-a59a-8b8694004e0f",
+      "IsUnlocked": true,
+      "Completion": 5
+    },
+    {
+      "Guid": "c4b648b3-b570-4f90-9140-1ae7878212ef",
+      "IsUnlocked": true,
+      "Completion": 5
+    },
+    {
+      "Guid": "1d6ed930-63dd-4b76-8ba8-168d5ab167a0",
+      "IsUnlocked": true,
+      "Completion": 5
+    },
+    {
+      "Guid": "b354db8f-830d-43a2-9a1a-b18f23d26c75",
+      "IsUnlocked": true,
+      "Completion": 5
+    },
+    {
+      "Guid": "17921864-9943-4cf7-adce-5f75bd7203b0",
+      "IsUnlocked": true,
+      "Completion": 5
+    },
+    {
+      "Guid": "1b9c39bd-f3ae-430e-ba16-1e3c23930f0a",
+      "IsUnlocked": true,
+      "Completion": 5
+    },
+    {
+      "Guid": "de1f21b2-3be5-4e30-8714-e569d8b848cf",
+      "IsUnlocked": true,
+      "Completion": 5
+    },
+    {
+      "Guid": "d42d983d-bf56-46fc-87ba-2bfca9f5bb0a",
+      "IsUnlocked": true,
+      "Completion": 5
+    },
+    {
+      "Guid": "4d701432-b462-43da-9c28-2e44038bf351",
+      "IsUnlocked": true,
+      "Completion": 5
+    },
+    {
+      "Guid": "41050ed9-366c-4347-998d-70c5913ac044",
+      "IsUnlocked": true,
+      "Completion": 5
+    },
+    {
+      "Guid": "f8382a07-8822-428f-98b6-ca1c8d63b483",
+      "IsUnlocked": true,
+      "Completion": 5
+    },
+    {
+      "Guid": "510298ab-5c94-4bf2-943e-e07b1712a17d",
+      "IsUnlocked": true,
+      "Completion": 5
+    },
+    {
+      "Guid": "cfe0d331-f7d3-4e2b-98d9-b18a8c1a1173",
+      "IsUnlocked": true,
+      "Completion": 5
+    },
+    {
+      "Guid": "6360506d-6484-4875-a54a-7abdcd779c8a",
+      "IsUnlocked": true,
+      "Completion": 5
+    },
+    {
+      "Guid": "a68f2282-bfdb-484d-89d5-67c7750d28ea",
+      "IsUnlocked": true,
+      "Completion": 5
+    },
+    {
+      "Guid": "3eb7ee15-aac1-4883-851f-48860bc294cf",
+      "IsUnlocked": true,
+      "Completion": 5
+    },
+    {
+      "Guid": "c08b4b58-99f6-45b6-96b6-b692e1bc102b",
+      "IsUnlocked": true,
+      "Completion": 5
+    },
+    {
+      "Guid": "28f5e3e9-225a-4893-bec0-1a929925d415",
+      "IsUnlocked": true,
+      "Completion": 5
+    },
+    {
+      "Guid": "de49d850-9600-4ac7-9d36-15751456f4de",
+      "IsUnlocked": true,
+      "Completion": 5
+    },
+    {
+      "Guid": "d84740b9-a7f0-44d8-82d6-618f133fa16b",
+      "IsUnlocked": true,
+      "Completion": 5
+    },
+    {
+      "Guid": "87987987-0685-4dd6-a114-0680e3936f96",
+      "IsUnlocked": true,
+      "Completion": 5
+    },
+    {
+      "Guid": "00f7dc90-ff1f-4176-a722-526a6a0103b2",
+      "IsUnlocked": true,
+      "Completion": 5
+    },
+    {
+      "Guid": "bc3bcf5d-0489-451d-a1e0-cccf9f0c5c22",
+      "IsUnlocked": true,
+      "Completion": 5
+    },
+    {
+      "Guid": "728b1320-0299-46b2-9426-3c329866cb7a",
+      "IsUnlocked": true,
+      "Completion": 5
+    },
+    {
+      "Guid": "b24c2dec-f549-4aae-b3e0-cc12bf89041d",
+      "IsUnlocked": true,
+      "Completion": 5
+    },
+    {
+      "Guid": "f8cbf679-888f-45c3-8d51-d30a9424aad0",
+      "IsUnlocked": true,
+      "Completion": 5
+    },
+    {
+      "Guid": "a7af3f80-c490-4ad0-9055-6f32c6976f82",
+      "IsUnlocked": true,
+      "Completion": 5
+    },
+    {
+      "Guid": "0fd2c4cf-92b0-416d-ae13-7d8d0cb14b8e",
+      "IsUnlocked": true,
+      "Completion": 5
+    },
+    {
+      "Guid": "b3cfec22-d52e-4e78-b1be-c670a98193c9",
+      "IsUnlocked": true,
+      "Completion": 5
+    },
+    {
+      "Guid": "5453ad6c-6fd9-4146-9dc6-e2b9dcaa2cf1",
+      "IsUnlocked": true,
+      "Completion": 5
+    },
+    {
+      "Guid": "bafc21cb-92e7-44b8-8beb-1ae1c996146a",
+      "IsUnlocked": true,
+      "Completion": 5
+    },
+    {
+      "Guid": "54ff9240-a667-4306-9ed9-908161ee8608",
+      "IsUnlocked": true,
+      "Completion": 5
+    },
+    {
+      "Guid": "28c9f76f-b3a3-4404-9882-59bc61f186ae",
+      "IsUnlocked": true,
+      "Completion": 5
+    },
+    {
+      "Guid": "7ff4b0b3-909b-429c-b609-51b9c6c90b1a",
+      "IsUnlocked": true,
+      "Completion": 5
+    }
+  ],
+  "WeaponSaveData": [],
+  "BiomeSaveData": [],
+  "ClassModSaveData": [],
+  "MetaStatUpgrades": [
+    {
+      "Id": "msu_damageMod",
+      "Level": 12
+    },
+    {
+      "Id": "msu_moveSpeed",
+      "Level": 12
+    },
+    {
+      "Id": "msu_armor",
+      "Level": 12
+    },
+    {
+      "Id": "msu_xpGain",
+      "Level": 12
+    },
+    {
+      "Id": "msu_maxHp",
+      "Level": 12
+    },
+    {
+      "Id": "msu_critChance",
+      "Level": 12
+    },
+    {
+      "Id": "msu_reloadSpeed",
+      "Level": 12
+    },
+    {
+      "Id": "msu_miningSpeed",
+      "Level": 12
+    },
+    {
+      "Id": "msu_luck",
+      "Level": 12
+    },
+    {
+      "Id": "msu_pickupRadius",
+      "Level": 12
+    },
+    {
+      "Id": "msu_lifeRegen",
+      "Level": 12
+    },
+    {
+      "Id": "msu_critDamage",
+      "Level": 12
+    },
+    {
+      "Id": "msu_fireRate",
+      "Level": 12
+    },
+    {
+      "Id": "msu_stausEffectDamage",
+      "Level": 12
+    },
+    {
+      "Id": "msu_potency",
+      "Level": 12
+    },
+    {
+      "Id": "msu_startingNitra",
+      "Level": 12
+    },
+    {
+      "Id": "msu_startingGold",
+      "Level": 12
+    },
+    {
+      "Id": "msu_artifactReroll",
+      "Level": 12
+    }
+  ],
+  "MileStoneStates": [
+    {
+      "Guid": "f2303b89-4838-41fd-aea2-736946361562",
+      "Progress": 75,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "560a51c9-e9f4-40c0-8fb0-500fcfbd526a",
+      "Progress": 300,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "7703eca2-5a24-48dd-8043-3c41cb812f7a",
+      "Progress": 50,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "c69c312b-d885-49d4-bcc2-5a97c2993a0a",
+      "Progress": 75,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "c44e943d-b72b-4c86-abf6-aaa8497dac34",
+      "Progress": 9,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "7426742d-e8db-4dba-a4f0-cb011fc9c776",
+      "Progress": 18,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "a6a516f8-998d-4534-b20d-71bef04c6504",
+      "Progress": 3,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "2cfea15f-1fa6-47a7-8ab8-d9a905fd8022",
+      "Progress": 6,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "aa44df39-70b2-4cd2-b464-a0b001a80023",
+      "Progress": 12,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "91f1f836-a113-4f1a-aaba-4ff1f9e09c6e",
+      "Progress": 15,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "162891f1-4326-4300-8491-e5229609bdef",
+      "Progress": 21,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "7fc58c79-5e14-48d9-a25e-04c78c22b986",
+      "Progress": 24,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "5b3cb360-cb04-44e2-9c73-47e8210b8416",
+      "Progress": 27,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "b1afd7fd-e198-4d09-8e84-c467a3dddaaf",
+      "Progress": 9,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "a1ddf527-e83b-4326-a555-ba9d58a799b5",
+      "Progress": 18,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "c925b9f3-27ed-4a37-905c-a7703f148c8d",
+      "Progress": 3,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "d5cee51f-b7ae-4afe-abc9-bf350fac30dd",
+      "Progress": 6,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "4e3838b6-a16c-45c2-a403-ecc3d00abf4d",
+      "Progress": 12,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "fe7343d9-5172-4d1e-a5f3-875f0f6e1bc1",
+      "Progress": 15,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "6d76a090-bf25-40ae-8c35-e0c6d2b66361",
+      "Progress": 21,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "4e28e5cb-e209-4524-b971-4db5a7f59c14",
+      "Progress": 24,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "56f8474b-14dc-4b88-8f83-249754496e2a",
+      "Progress": 27,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "bdf9725e-4cc8-4946-892e-b24b7c5c6729",
+      "Progress": 9,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "540708de-c7b5-4ead-a03f-be96d2faf45b",
+      "Progress": 18,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "d72e9140-8b49-44a2-9e74-ba6a7dcf2451",
+      "Progress": 3,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "4dd55d41-d6bc-4025-b024-d3efb0ec118f",
+      "Progress": 6,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "5760292a-7260-46f5-9d42-9929c93947a2",
+      "Progress": 12,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "68ad4664-c44f-4f03-9ef9-e5bf4fc8e7b4",
+      "Progress": 15,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "673b16b2-88e5-4986-a753-91d327803cd8",
+      "Progress": 21,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "dfa31d20-5874-44bc-8f83-2a245b9a8ab0",
+      "Progress": 24,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "a8de17e1-a907-4a00-bfb7-2d224dcc52b2",
+      "Progress": 27,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "8ce823d3-22de-4f53-8279-ff347a03c890",
+      "Progress": 9,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "9879ebda-2d2b-47bc-9059-e55efe35cc13",
+      "Progress": 18,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "06ab0dc9-1c40-4a7e-8b9c-0dbc1f33b148",
+      "Progress": 3,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "467621ff-03d8-46d6-a2c9-04e2af9bd9ca",
+      "Progress": 6,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "27c8a14a-f64d-4f88-8f26-40590331ac03",
+      "Progress": 12,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "75e24cb6-9366-4b64-ab4e-0d8ca839c8f3",
+      "Progress": 15,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "6489c379-6bfc-487a-8f2c-ab3b89113b23",
+      "Progress": 21,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "8ff9600f-c74b-48f7-80bc-3fc4d19e43e1",
+      "Progress": 24,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "fd1be10d-e037-43fa-ab30-62d9f9bed1a8",
+      "Progress": 100,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "938d1996-95f1-4e3b-9f63-dbd91da7686a",
+      "Progress": 250,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "a1bec05f-c994-4502-9aeb-dbb83baf617a",
+      "Progress": 2000,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "7694535f-c9a8-4292-8cf2-d863730a3fee",
+      "Progress": 250,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "6fc21a10-f5a8-4928-903b-acd65ca9282f",
+      "Progress": 2000,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "5133ce49-2a8e-455a-b048-2667a079c28f",
+      "Progress": 250000,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "474f4797-0456-467d-953a-99f69ec1b9f1",
+      "Progress": 250000,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "2e882e7a-86fa-4707-b41a-8f6a206e6cfd",
+      "Progress": 1337,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "e32b0142-ad08-43b0-a337-f614ec36682e",
+      "Progress": 3,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "b80ede4e-ff3d-4b3a-a5c1-ac888bb648a8",
+      "Progress": 100,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "bfea9100-96f2-4093-88d0-7c8bd3a71d98",
+      "Progress": 15000,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "bbaa9030-247b-44cc-88c8-255dca835f3b",
+      "Progress": 7,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "0dafec21-c59c-4e91-ba27-ed8f147891a4",
+      "Progress": 5,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "7e14c10f-0d22-4b23-96d2-6002eec9e58b",
+      "Progress": 3,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "1777e05b-ae5a-4aef-9df9-011089f50394",
+      "Progress": 20000,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "8fd271c1-bbb1-453f-b23e-26abfec7e69b",
+      "Progress": 2000,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "feef8524-f903-472e-9720-84e6a9e231d2",
+      "Progress": 12,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "ef168b1e-26c1-4be7-b125-c1e81a8a1e6d",
+      "Progress": 12,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "32ddf25c-12a3-4035-93bd-c58c7a1103b6",
+      "Progress": 12,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "8c6d73e7-e7b3-4150-9a8e-32194abdc40d",
+      "Progress": 12,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "6f960fab-bf63-47b5-9846-655e738b75a2",
+      "Progress": 12,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "9d002f54-2994-40c7-8053-72dd8b25aec0",
+      "Progress": 12,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "7495ca59-5c13-4392-ae24-268d21a5ebc4",
+      "Progress": 12,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "ac909b02-cee5-4bb9-8369-76543f954f18",
+      "Progress": 12,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "ca247cbb-3ae8-4a4c-bd6e-a5bce9701aa9",
+      "Progress": 12,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "2f37652d-a383-4fc9-909e-e18d0a981da3",
+      "Progress": 12,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "df32412d-a8ae-4ad8-a963-b84c4a69b132",
+      "Progress": 12,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "bd7b37bd-ae72-4a98-addb-878dfcaa14f2",
+      "Progress": 12,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "d3513e8a-ae7d-46d4-afdd-1fe80d1f42ac",
+      "Progress": 12,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "bf9bb456-06b5-46cb-acfa-e3a2d82b2d6f",
+      "Progress": 12,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "216cc3ec-de51-4acb-abde-327446831cce",
+      "Progress": 12,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "1799352a-6664-433d-a96b-3122b3acefb6",
+      "Progress": 12,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "42601a4a-0329-41b1-bebb-8719464df21d",
+      "Progress": 12,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "b78c84b2-a531-421b-a2f8-7b26e7422409",
+      "Progress": 12,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "1983c814-04c6-4e30-9264-aa07380e249b",
+      "Progress": 12,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "56ddc113-cf4e-41a8-84e1-1dee9e848011",
+      "Progress": 12,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "42400068-4d7b-41b4-8ab0-6294cdff7307",
+      "Progress": 12,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "89780807-bb6e-4cfa-a939-2f3372f009ec",
+      "Progress": 12,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "8aaeea68-0240-4c5b-b51f-3b298b2ee7cf",
+      "Progress": 12,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "2c40ca74-1775-4738-bc1d-232b361bc3b0",
+      "Progress": 12,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "0e508be3-d66d-40f9-9798-73fbae0d7bd0",
+      "Progress": 12,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "2e0785dd-fe88-4461-ac77-8df97537ae7d",
+      "Progress": 12,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "d1b30c20-c912-48f9-820e-ad851a1b5861",
+      "Progress": 12,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "7d5e5c63-c034-425d-894a-6ebf1a5cfc45",
+      "Progress": 12,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "f80ff359-6cd6-4bd7-9687-97ffd9178eb0",
+      "Progress": 12,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "b6f1642c-1130-4bda-8ffd-689509f73ff5",
+      "Progress": 12,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "4441c0fa-741e-4388-af8f-ac1d715b4500",
+      "Progress": 12,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "ba45ae30-4caa-40c1-8e9d-546fcbf7a037",
+      "Progress": 12,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "5022e5b1-9302-43a7-9921-bc0170595b90",
+      "Progress": 12,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "52045d1e-71e5-4ffb-97f6-f8ec83bcdd63",
+      "Progress": 12,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "e65c0ac0-6d4c-4e5e-9152-37ab77c815d5",
+      "Progress": 12,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "94ca0e1f-eb4c-4088-aa04-afcbb3ade490",
+      "Progress": 12,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "9df463e0-0775-4b95-950e-163cd3e5f9fa",
+      "Progress": 12,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "da9164c5-232b-4513-8717-585752cf6aca",
+      "Progress": 12,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "9954dfb7-cf47-4678-a53a-ba331669aafb",
+      "Progress": 200,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "5e68cda8-4f67-4c11-a597-ec5fab824668",
+      "Progress": 12,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "2ef96a32-7343-4269-a586-790a200014ec",
+      "Progress": 1,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "ac54f5e2-cc93-4c85-8158-313e68df936d",
+      "Progress": 4,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "9cbe1077-fa11-4d6e-8e3c-f82b9dde91ee",
+      "Progress": 18,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "cde388dc-e9c6-4096-8499-6b3d444e0ece",
+      "Progress": 1,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "93c24f77-344c-4a06-8c0e-bc719a892082",
+      "Progress": 30,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "38a9dd89-1088-4be2-a9c3-736ff7995732",
+      "Progress": 21,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "0eb3c381-645e-4c66-87de-5ca19c077d94",
+      "Progress": 1,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "59d4d271-92a8-4f4b-93a8-ab56d8224583",
+      "Progress": 55,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "92f04530-6731-492c-840e-e1e74beb97a9",
+      "Progress": 2000,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "a3f7f0bf-8dac-4dac-b45f-ce8bb361b5d8",
+      "Progress": 1,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "4f5d4719-c44b-4993-8168-5076d395d7e9",
+      "Progress": 60,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "6ed31e07-26e7-4c9a-a109-6217f2883cbd",
+      "Progress": 4,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "eefc80ad-05d4-4ddb-8f2a-1f3fe880de1d",
+      "Progress": 1,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "437df66e-2d8f-4678-85f4-5e89d496fcce",
+      "Progress": 30,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "b3c408d9-feb9-4847-9790-5c55cbe2129f",
+      "Progress": 750,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "2321633d-7c07-4c79-a1fc-897b901701a1",
+      "Progress": 1,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "571c84a3-db14-40f9-82f9-c6c6e850304f",
+      "Progress": 100,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "70eb96fb-f328-4f02-ad18-86861a38aed4",
+      "Progress": 18,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "6bf36475-663f-4b30-bcd6-af4523458e55",
+      "Progress": 1,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "a6c2e3b9-9da2-43d9-9e5a-b4b7ffb516cf",
+      "Progress": 500,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "3194b0b5-d3a7-40f2-ab63-df2f6c66c603",
+      "Progress": 21,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "4e8c90e8-2947-4af9-a7f0-28c5c1d0694d",
+      "Progress": 1,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "eec8d034-90d6-42ee-8592-2117d36875db",
+      "Progress": 600,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "1909ed2d-c2b7-4111-bc6e-ca3171c6763a",
+      "Progress": 25,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "89d1de6f-6614-40c2-9e1b-dc0573d1405b",
+      "Progress": 1,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "5758310e-4e60-4df2-8016-1136ed0aea52",
+      "Progress": 60,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "38d575f3-6389-4f67-b20b-dedf5ea96fc5",
+      "Progress": 4,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "dd6111c4-4fac-4dd5-b898-e6db4b762308",
+      "Progress": 1,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "33a2a868-f425-405c-9e62-91291c70ce51",
+      "Progress": 20,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "974bc12c-b23e-4190-ba44-285803417883",
+      "Progress": 25,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "951273b6-91b3-493d-906d-905b29b82087",
+      "Progress": 1,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "d5e1594e-c966-452d-9349-7f7e6d83dd8a",
+      "Progress": 150,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "b3f11c95-0f05-41f2-8f15-bcc10a6d3222",
+      "Progress": 18,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "85a345f8-65e0-4ce3-8afd-7776bb0f55cd",
+      "Progress": 1,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "ebb94fb1-3129-4429-aa9c-8aa70e233b7b",
+      "Progress": 1000,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "46b0fc31-cefa-4320-940c-aa734d157a74",
+      "Progress": 21,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "2342b764-de4e-44b9-b658-946f5dc9a656",
+      "Progress": 1,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "8f3244f0-fe68-4626-9899-e61896bb10a7",
+      "Progress": 300,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "645d098a-34f8-4735-b012-292fd3497343",
+      "Progress": 25,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "ea9edbed-2210-4635-bd1f-1292e3d36d75",
+      "Progress": 1,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "31aa0f58-b445-465a-8f29-62dd2170e740",
+      "Progress": 60,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "248a75ab-3929-4ab7-8792-b8614d4bcba1",
+      "Progress": 4,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "a2176d53-22db-4745-8a72-a219c73bc52d",
+      "Progress": 1,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "2e95a286-e3f6-4d7f-8605-3ca8f668d32d",
+      "Progress": 35,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "54e1f4dc-b3ec-4957-abc9-49dc55951670",
+      "Progress": 3000,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "bdc53fe0-cb29-47ef-81c3-a40aecd5f557",
+      "Progress": 1,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "f91dcd10-151a-4289-bbf1-a6eb495c2fd4",
+      "Progress": 18,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "fe1a9908-ab14-4ce0-8ee1-fd237c6804db",
+      "Progress": 45,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "4f986b87-1d9c-4a6f-b5ed-95a93d434b40",
+      "Progress": 1,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "c75b11d6-af29-4b6d-a796-7537a78032a7",
+      "Progress": 15,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "6911ae53-27bb-4512-956b-704f2b48c679",
+      "Progress": 21,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "4801744f-0c67-47b1-a387-57d4ea1700cd",
+      "Progress": 1,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "0d7141f5-cfd9-45da-9079-c964ae029adb",
+      "Progress": 4,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "a59519c4-e1c8-4c8f-bf26-e65d525f33b4",
+      "Progress": 25,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "4926ab11-f6e8-451a-9c1e-581d16db32f4",
+      "Progress": 1,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "9e24fa3c-539d-4de1-8dfc-ca13983c0c92",
+      "Progress": 60,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "e533e402-5579-4c24-99f7-39bb1b54de0c",
+      "Progress": 4,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "0333b819-b80f-4532-987c-b7e84b782358",
+      "Progress": 1,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "d88deb32-80f6-48f2-9d09-32b0d0d8534e",
+      "Progress": 50,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "75677a3d-177e-4153-b0f5-9a34d668f458",
+      "Progress": 1,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "f7cfc437-7ae0-4f6c-a386-7dac9cc4f601",
+      "Progress": 12,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "ab6225c4-b985-4193-bc03-5d3305740c70",
+      "Progress": 12,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "458463ec-7b1f-4631-957c-44e681b83894",
+      "Progress": 12,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "8d5d7b22-6a1c-4eb5-952e-8768cdced392",
+      "Progress": 12,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "f314b222-c289-4e98-88e0-3507e5102249",
+      "Progress": 12,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "920cb17d-f8c4-4a31-a911-c65356a13672",
+      "Progress": 12,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "a5c27017-7e3e-4d57-b86b-c54ecca77390",
+      "Progress": 12,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "654bf96e-6ded-4d4d-86a0-a7e6180a4649",
+      "Progress": 12,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "8f295004-3c39-431f-861c-d93793433d85",
+      "Progress": 12,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "b958db2f-ae3d-4816-947b-9721e0f0ea88",
+      "Progress": 12,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "e7e60f68-1d7c-49f0-8691-8f4597915f1f",
+      "Progress": 12,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "052acac5-1bc9-4961-a840-7ec3b51a158a",
+      "Progress": 12,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "ac6de407-cf92-4b20-a59b-95cee6fdb195",
+      "Progress": 12,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "5393fdda-a44c-4334-b442-59f5b20815e6",
+      "Progress": 12,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "41ba78c2-96ac-4237-9fa1-263dc8da9961",
+      "Progress": 12,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "60a1840b-c2b4-43e3-9737-3120ca8c24da",
+      "Progress": 12,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "fae3dfb3-0677-4b97-b89f-7c9c43be85f1",
+      "Progress": 12,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "3ce26ce6-e898-4f15-9b21-448921040be0",
+      "Progress": 12,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "6b18f714-78bc-4011-b0e2-06252348be3f",
+      "Progress": 12,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "67253955-f3f4-4140-9d8f-902d973e16d7",
+      "Progress": 12,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "b1b4eee1-3442-4080-a3cf-2e32a74cc0f4",
+      "Progress": 12,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "4aef83c5-804a-4b83-967b-87a82a8ac98c",
+      "Progress": 12,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "d565c7ca-360b-4515-b6f0-028d0f4a4c6f",
+      "Progress": 12,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "13f2bbc2-f6c9-4f2e-9c9f-6bdb45c2505b",
+      "Progress": 12,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "5c2e990d-af54-401a-929a-440b5fd59e9c",
+      "Progress": 12,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "f83849cb-dbfe-48e0-958c-b891ae4186c5",
+      "Progress": 12,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "0678dbf1-cc20-47bb-aa79-ab128473e5b8",
+      "Progress": 12,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "e46141e8-8df7-48c9-88e3-f635e6aa6da3",
+      "Progress": 12,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "f3ba03d7-15a2-4fc1-a645-2521e2c3b409",
+      "Progress": 12,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "af5a4c29-cb6e-413e-95ce-6d43e6b55c0f",
+      "Progress": 12,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "2eb1143a-28bd-4406-b3e2-206a2a138ce4",
+      "Progress": 12,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "575bcca9-9cdb-41ed-b0f8-533bc904c029",
+      "Progress": 12,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "41ac6db1-7087-45bd-ba0a-50e5bb61e235",
+      "Progress": 12,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "8f246715-8173-46a9-81ad-7a10953bdf09",
+      "Progress": 12,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "a2bec6a0-c8f2-4d33-ba9b-66d908728f7b",
+      "Progress": 12,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "5db6ea6e-486c-4ea3-b8d6-5a4d60ceeb38",
+      "Progress": 12,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "b52e5570-53a6-4e6e-ac77-0236cc1a7918",
+      "Progress": 12,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "b10a49ba-6257-4601-a76d-01237cf6b8a0",
+      "Progress": 12,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "e15111ca-7725-4aa2-bb43-345fe7586e35",
+      "Progress": 12,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "02883fab-9100-486f-ad81-d4050d50c054",
+      "Progress": 12,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "c0efa47c-1b73-45c2-9ece-c72d09b4e690",
+      "Progress": 12,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "c8181f2f-b23e-41bf-8fc5-fc6f9163cf7e",
+      "Progress": 12,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "3273425f-499d-4bf9-b90f-f83313e21eea",
+      "Progress": 1,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "e933a64d-9ad3-48c0-b30c-64a793d66566",
+      "Progress": 1,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "4f6674a0-1b19-4a67-9f60-dd93bab67573",
+      "Progress": 1,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "1dd365fb-130f-4fd1-bff8-ca319f509c6d",
+      "Progress": 1,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "f9aafb64-601b-42c2-8d48-940071a73e5f",
+      "Progress": 1,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "d8e432f7-dec4-453a-a7ff-c31e4560d029",
+      "Progress": 1,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "e664694f-115b-4fab-99ec-2123e4db4838",
+      "Progress": 1,
+      "IsCompleted": true
+    },
+    {
+      "Guid": "dcf431b6-d2bb-4ec2-97e1-adeddba4fe47",
+      "Progress": 1,
+      "IsCompleted": true
+    }
+  ],
+  "UnlockedChallengeSetIds": [
+    "baeebd5f-d0b9-4cd9-972f-3d5606737a35"
+  ],
+  "UnlockedWeaponIds": [
+    "2d35d22b-50f2-42e4-bd0d-b246a8fc1c1a",
+    "6ad964a2-f17a-4ed2-943b-f184da3d1c7a",
+    "948cc5f6-fbb4-40a3-bfed-f97162721040",
+    "67e123ca-612d-48ef-8ee6-b7456d489b01",
+    "e4b6139b-2abc-4cfa-a1a5-24b79f484511",
+    "3f2291e8-3d1a-4a6c-ae16-23b4a022a972",
+    "724bf734-38cf-4fb3-a369-e050dbeb835a",
+    "58893b54-dda5-42a1-9f5d-faa197970981",
+    "2d22070b-0ebc-43ff-a4ec-db864f30f899",
+    "5a91ac2c-9751-4917-99cd-207351fabd4c",
+    "7bdddaa8-2eb8-4270-9304-8f8cf43157a8",
+    "60007f2b-64e3-4025-b281-eac6bc2b8526",
+    "ea134bab-6bc7-430e-87e0-8372a109802b",
+    "29d64624-86a7-4c99-a10f-d95d40206db5",
+    "0a23e96c-3230-4bfe-9d3b-a18a74ffb5e4",
+    "666aa743-63b3-4dc8-8385-566efcfdca1b",
+    "8a868db0-7f1c-474b-a7b7-3dc2463c0362",
+    "ecec62d9-9fe6-4852-aefa-e821acc7eecf",
+    "3f3f1232-4b77-481d-b6cc-4c2f52442cfa",
+    "7cd587dc-81a2-4cb2-aac8-3c958338ef8a",
+    "c9a72abb-b0d8-490c-abf7-7180bc0a9979",
+    "a8f5c205-ff59-42e8-85a7-ae6fd712b967",
+    "cd3aa60a-e994-40f0-a213-179c1fedf15c",
+    "8ed23a22-534e-4cc4-8786-bdd28f220b1c",
+    "7dfc9e7d-5e63-4aa5-b57b-84dc6199206b",
+    "9cd8f5e4-49a2-4dd2-88a2-84fbd589ffe2",
+    "ae32c0e1-467e-4ea2-ae9d-f7f20a2e7b07",
+    "e2cb84d9-abcf-461d-8cc4-296b633a9acb",
+    "8e4fd562-9ad6-418d-9863-b11f100884fd",
+    "b4fbef58-09ad-443d-bc78-1b540e1f1ea1",
+    "539a0e86-fe2e-457b-8860-c07a1c79975f",
+    "3a48e3b8-3520-4ff6-9b5b-bbb96314a445",
+    "b6980e26-e39e-41d8-a887-9537f3315d25",
+    "c3b7809a-9e67-45db-b028-ff4fc1a67c08",
+    "126de2c9-a957-4cd3-a146-19eed78565c6",
+    "6c633217-8ac1-4d89-8cff-a073c05fcf03",
+    "450cad09-bacb-4b84-84ae-97b46b0e2adc",
+    "28c976d4-e8ae-4db3-b9b6-0030e9b7824e",
+    "b6626375-92f6-41b4-ae14-17339f654a72",
+    "287ebb1a-59a3-49fd-a627-94a04d06ff94",
+    "973a9b4f-b9fa-4ee2-84bb-263ccbb169d7",
+    "69103cd3-b0d1-4c45-be77-94a13e9d735b"
+  ],
+  "UnlockedArtifactIds": [
+    "38baad2d-36af-4771-bed9-72049715f568",
+    "2be1a59e-8036-4558-83de-9f98e9091425",
+    "598ad538-5d1e-4c5e-8e54-8ab2f679d7d1",
+    "bbf6f015-764f-4dc5-a34e-17e9bac1e6a1",
+    "85b03605-4755-4530-be1f-8cb0a5fb7a01",
+    "447a211b-c786-4cf8-a26c-3a575fa9f96c",
+    "7b371c9c-b193-4192-b02a-3799c6118f09",
+    "8b35da7a-9b9c-44ba-93c0-18e7ef2a6e8b",
+    "efe4dbfe-a879-4ca9-a1db-46aa2b44f8e1",
+    "c3d63827-27bb-4bbf-abff-373d31d4dfe2",
+    "a6480108-960c-4eb0-87c7-59c0ebef3511",
+    "fac78e31-783e-4b95-ae90-a55b4e0ae514",
+    "6270fd4a-009f-4992-aef7-4796eefbc1da",
+    "439f6505-b68e-41c8-90bb-039a010e6a8c",
+    "00c9c09f-37d0-4af2-8853-fc754710ec79",
+    "bfbf2169-fc75-415d-86d7-f6a2e7a4d0c8",
+    "4ba1e17b-af0b-4517-8fb9-f1acfcba2bf6",
+    "30036879-1775-4099-bc01-924f6612bd0d"
+  ],
+  "UnlockedClassArtifactIds": [
+    "fdf79de1-a00e-41b1-a752-5717a8c2fb60",
+    "9e515194-6325-4d2c-8053-ca61415ea0fe",
+    "43ac1262-94bf-43a9-956c-2c42b67034fd",
+    "9b09b0c0-2618-4840-b961-42a416f3940a",
+    "ce29ce82-bda9-4307-b877-d3f430ed5ec3",
+    "7d383065-ca05-4de8-a7e5-8281e1bcb32f",
+    "93c2b272-16fd-495d-918b-e18ede618edb",
+    "fc6bcbc9-af3f-484c-a387-e10da805e70c",
+    "f8d79e8f-b005-44dc-801b-3240c8192c1f",
+    "56685d71-e01c-4fe1-bf91-ac757a94b425",
+    "0326121b-2305-470d-b6ff-10b077201633",
+    "c6eba1a7-250f-4142-8212-606d403dfac2"
+  ],
+  "OverclockUnlockedWeaponIds": [],
+  "UnlockedClassIds": [
+    "SCOUT",
+    "GUNNER",
+    "ENGINEER",
+    "DRILLER"
+  ],
+  "ClaimedPowerCores": [],
+  "BiomeGoalPoints": 99,
+  "Credits": 559999,
+  "Bismor": 100664,
+  "Croppa": 100744,
+  "EnorPearl": 100786,
+  "Jadiz": 100786,
+  "Magnite": 100794,
+  "Umanite": 100813,
+  "PowerCore": 100794,
+  "ActiveLoadout": 3,
+  "ClassRanks": [
+    {
+      "ClassType": 0,
+      "Xp": 4100,
+      "Rank": 47
+    },
+    {
+      "ClassType": 1,
+      "Xp": 8399,
+      "Rank": 32
+    },
+    {
+      "ClassType": 2,
+      "Xp": 2376,
+      "Rank": 34
+    },
+    {
+      "ClassType": 3,
+      "Xp": 2593,
+      "Rank": 34
+    }
+  ],
+  "PlayerRank": 47,
+  "TotalClassLevels": 143,
+  "NumDivesTotal": 384,
+  "SecondaryObjectivesUnlocked": true
+}
